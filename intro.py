@@ -102,9 +102,9 @@ while True:
     guess()
 
   else:
-    print("\n\n\nThanks for playing Ayo's CPT")
+    print("\n\n\nThanks for playing my games!")
     time.sleep(1)
-    print("Have a great day Miss Pozzebon!")
+    print("Have a great day!!!")
     print(
       "\nInfo:\n\nLibraries Used:\nPyfiglet for fancy text\nTime library for delayed text\nRandom Library for randomizing computer choice\nTerm Color for adding color to text"
     )
